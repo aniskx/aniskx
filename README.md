@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - :notebook: I write about cloud technologies and data at : https://aaniskheloufi.medium.com/, "just getting Started :bowtie:"
+ - :notebook: I write about cloud technologies and data at : https://aaniskheloufi.medium.com/, ":bowtie:"
  - :computer: At night you find me here :  https://cyber-dojo.org/creator/home 
  - :mortar_board: currently making my way to the GCP Cloud Data Engineer Certificate & Learning about BlockChain 
  -  Ocean :ocean: Lover  
